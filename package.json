@@ -1,0 +1,25 @@
+{
+  "name": "markid-widget-sdk",
+  "version": "1.0.0",
+  "description": "MarkId Customizable React Native Identification Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark-id/react-native-sdk"
+  },
+  "keywords": [
+    "Face Recognition",
+    "Identification",
+    "MarkID",
+    "Digital signature"
+  ],
+  "author": "MarkID",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-sdk": "git://github.com/mark-id/react-native-sdk.git"
+  },
+  "homepage": "https://github.com/mark-id/react-native-sdk#readme"
+}
