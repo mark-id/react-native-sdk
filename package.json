@@ -19,7 +19,7 @@
   "author": "MarkID",
   "license": "MIT",
   "dependencies": {
-    "react-native-sdk": "git://github.com/mark-id/react-native-sdk.git"
+    "react-native-sdk": "git://github.com/mark-id/react-native-sdk-core.git"
   },
   "homepage": "https://github.com/mark-id/react-native-sdk#readme"
 }
