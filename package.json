@@ -19,7 +19,10 @@
   "author": "MarkID",
   "license": "MIT",
   "dependencies": {
-    "react-native-sdk": "git://github.com/mark-id/react-native-sdk-core.git"
+    "react-native-sdk": "git://github.com/mark-id/react-native-sdk-core.git",
+    "expo": "^38.0.1",
+    "react": "^16.11.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.0.tar.gz"
   },
   "homepage": "https://github.com/mark-id/react-native-sdk#readme"
 }
