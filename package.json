@@ -35,5 +35,8 @@
     "react-native-webview": "^9.4.0",
     "react-timer-mixin": "^0.13.4"
   },
-  "homepage": "https://github.com/mark-id/react-native-sdk#readme"
+  "homepage": "https://github.com/mark-id/react-native-sdk#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.61.0"
+  }
 }
