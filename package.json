@@ -1,5 +1,5 @@
 {
-  "name": "markid-widget-sdk",
+  "name": "react-native-sdk",
   "version": "1.0.1",
   "description": "MarkId Customizable React Native Identification Component",
   "main": "index.js",
