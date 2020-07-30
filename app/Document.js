@@ -1,0 +1,8 @@
+/**
+ * MARKID DEFAULT DOCUMENT TYPES
+ */
+export const documentTypes = {
+    'DOCUMENT_TYPE_PASSPORT': 1,
+    'DOCUMENT_TYPE_ID': 2,
+    'DOCUMENT_TYPE_PERMIT': 3
+}

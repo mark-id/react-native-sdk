@@ -18,8 +18,13 @@
   ],
   "author": "MarkID",
   "license": "MIT",
-  "dependencies": {
-    "react-native-sdk-core": "git://github.com/mark-id/react-native-sdk-core.git",
+  "peerDependencies": {
+    "react": "^16.11.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.0.tar.gz"
+  },
+  "homepage": "https://github.com/mark-id/react-native-sdk#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.61.0",
     "react": "^16.11.0",
     "@react-native-community/hooks": "^2.6.0",
     "axios": "^0.19.2",
@@ -32,11 +37,6 @@
     "react-native-radio-buttons-group": "^1.0.7",
     "react-native-unordered-list": "^1.0.4",
     "react-native-web": "~0.11.7",
-    "react-native-webview": "^9.4.0",
-    "react-timer-mixin": "^0.13.4"
-  },
-  "homepage": "https://github.com/mark-id/react-native-sdk#readme",
-  "devDependencies": {
-    "metro-react-native-babel-preset": "^0.61.0"
+    "react-native-webview": "^9.4.0"
   }
 }
