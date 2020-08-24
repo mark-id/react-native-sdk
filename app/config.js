@@ -38,10 +38,10 @@ export const IdentificationReportUrl = `${DefaultMarkIdDomain}/api/report`;
  */
 const MarkIdWidget = {
     'token': 'f4b79b72-7587-f417-41f8-2de5a7c87fae',
-    'name': 'Dmitriy',
-    'surname': 'Yanov-Yanovskiy',
-    'personcode': '38606032125',
-    'birthday': '1986-06-03',
+    'name': '',
+    'surname': '',
+    'personcode': '',
+    'birthday': '',
     'mode': 'min',
     'auto': 'true'
 }
