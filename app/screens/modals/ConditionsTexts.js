@@ -2,10 +2,6 @@ import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default class ConditionsTexts extends Component {
-    constructor(props) {
-        super(props);
-    }
-
     conditionsPersonalizationParagraphs = [
         { paragraph: 'Pirmame žingsnyje turite padaryti savo veido nuotrauką. Veidas turi būti neuždengtas, gerai matomas. Ant galvos ir veido neturi būti pašalinių daiktų (kepurės, akinių). Atvaizde negali būti pašalinių asmenų. Nuotrauka yra užfiksuojama paspaudus „Fiksuoti vaizdą“. Užfiksavus veido atvaizdą, galite įvertinti nuotrauką bei padaryti ją pakartotinai arba pereiti prie sekančio žingsnio spausdamas “Sekantis žingsnis”.'},
         { paragraph:'Antrame žingsnyje turite pasirinkti asmens dokumento tipą (asmens tapatybės kortelė ar pasas), spausti „Pradėti identifikaciją“ ir padaryti asmens tapatybę patvirtinančio dokumento pusės ar puslapio, kuriame yra asmens nuotrauka, nuotrauką. Dokumentas turi būti neuždengtas, tinkamai apšviestas ir gerai matomi visi jame esantys duomenys. Atvaizde neturi būti pašalinių daiktų ar asmenų. Dokumentas turi būti nepažeistas. Asmens tapatybę patvirtinančio dokumento vaizdas yra užfiksuojama paspaudus „Fiksuoti vaizdą“. Užfiksavus vaizdą, galite įvertinti nuotrauką bei padaryti ją pakartotinai arba pereiti prie sekančio žingsnio spausdamas “Sekantis žingsnis”.'},

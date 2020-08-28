@@ -9,3 +9,12 @@ dist
 
 # Dependency directory
 node_modules
+
+# Expo directory
+.expo
+
+# MacOs .idea folder
+.idea
+
+# Visual Studio Code
+.vscode
