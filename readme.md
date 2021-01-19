@@ -26,10 +26,6 @@ npm install axios@~0.21.1
 ```
 
 ```bash
-npm install react-native@0.62.2
-```
-
-```bash
 npm install react-native-radio-buttons-group@^1.0.7
 ```
 
