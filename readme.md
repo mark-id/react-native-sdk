@@ -22,11 +22,11 @@ npm install expo-camera@~8.3.1
 ```
 
 ```bash
-npm install axios@^0.19.2    
+npm install axios@~0.21.1
 ```
 
 ```bash
-npm install https://github.com/expo/react-native/archive/sdk-38.0.0.tar.gz    
+npm install react-native@0.62.2
 ```
 
 ```bash
