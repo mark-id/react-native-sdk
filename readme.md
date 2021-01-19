@@ -14,7 +14,7 @@ After installation is complete, please install all necessary dependencies. They
 will be listed inside the terminal window.
 
 ```bash
-npm install expo@~38.0.1
+npm install expo@~40.0.0
 ```
 
 ```bash
