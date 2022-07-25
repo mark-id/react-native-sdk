@@ -45,4 +45,4 @@ export default function App() {
 
 ## License
 Please contact MarkID CEO for all license questions:
-nerijus@markid.eu
+pagalba@markid.lt
